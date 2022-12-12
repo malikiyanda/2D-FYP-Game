@@ -61,8 +61,8 @@ public class Game extends Canvas implements Runnable {
     
     public Game(String title, int width, int height, GameHandler GH){
         this.title = "Survivor";
-        this.width = 1400;
-        this.height = 1000;
+        this.width = 900;
+        this.height = 900;
         this.GH = GH;
         
         
